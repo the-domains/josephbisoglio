@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Bernie Sanders and his revolution have failed. What’s worse, is that it was all a con that Sanders perpetrated on the young and impressionable. Disgusted and dismayed they will now abandon the progressive movement and fracture the democratic party.'
-datePublished: '2016-05-07T08:52:06.004Z'
-dateModified: '2016-05-07T08:52:02.652Z'
+datePublished: '2016-05-07T08:58:22.984Z'
+dateModified: '2016-05-07T08:57:05.721Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-07-bernie-sanders-and-his-revolution-have-failed-whats-worse.md
@@ -31,17 +31,17 @@ Bernie Sanders and his revolution have failed. What's worse, is that it was all 
 
 Bleak isn't it? This is the current political landscape as seen by Kevin Drum of Mother Jones. In [his article][0] released this Friday, Drum takes aim at Sanders and his supporters, and in one fell swoop manages to portray Sanders as a fraud, his supporters as naïve and facile, and the political world as a quagmire where, "You have to buy off interest groups, compromise your ideals, and settle for half loaves."
 
-As I read his article though, instead of feeling rage and indignation at the cheap and distorted characterizations used in his attack, I actually felt something else. I felt pity. I thought, here is a man who must wake up on a bright and beautiful day, look up at the sun and think:_One day that ball of fire will blowup and take our entire planet with it._What a grim and colorless world in which he lives!
+As I read his article though, instead of feeling rage and indignation at the cheap and distorted characterizations used in his attack, I actually felt something else. I felt pity. I thought, here is a man who must wake up on a bright and beautiful day, look up at the sun and think: _One day that ball of fire will blowup and take our entire planet with it. _What a grim and colorless world in which he lives!
 
-Drum's main argument is that Bernie Sanders knowingly misled his supporters, selling them on an impossible revolution. There can be no revolution, Drum argues, because economic revolutions do not occur absent a dire financial crisis, and what we are experiencing today pales in comparison to the economic desolation of the Great Depression. And, to be fair, he's right.
+Drum's main argument is that Sanders knowingly misled his supporters, selling them on an impossible revolution. There can be no revolution, Drum argues, because economic revolutions do not occur absent a dire financial crisis, and what we are experiencing today pales in comparison to the economic desolation of the Great Depression. And, to be fair, he's right.
 
-What he fails to grasp, however, is that the movement Bernie Sanders has catalyzed isn't an economic revolution, it is a political one. Of course, it has strong economic consequences, but these are secondary to the primary tenet, which is simply this: **Our democracy is not for sale**. Our economy does not need to be overthrown, but we the people do need to take ownership of our democracy and stop the wealthy few from turning it into a plutocracy. If this is idealistic, then I am proud to be guilty, because it is not the naïve optimism of a fool. Rather, it is the dream of the disenchanted who have awoken to remember that what is, is not right.
+What he fails to grasp, however, is that the movement Sanders has catalyzed isn't an economic revolution, it is a political one. Of course, it has strong economic consequences, but these are secondary to the primary tenet, which is simply this: **Our democracy is not for sale**. Our economy does not need to be overthrown, but we the people do need to take ownership of our democracy and stop the wealthy few from turning it into a plutocracy. If this is idealistic, then I am proud to be guilty, because it is not the naïve optimism of a fool. Rather, it is the dream of the disenchanted who have awoken to remember that what is, is not right.
 
 Drum doesn't see this. He sees the movement as a fad, a toy which children discard once the sheen of novelty wears thin. There are, however,_two_great insights hidden in the dark corners of Drum's worldview.
 
 The first, is that he is not alone in this belief. In fact, he clearly articulates the perspective of a great many people in this country. These are the voices you hear so often who, with varying degrees of enthusiasm, claim that Hillary Clinton is the superior candidate because she is pragmatic. She sets her sights on the attainable, strikes deals, and compromises as is necessary to achieve a modest outcome. That's just politics, they say. Meanwhile, Bernie Sanders wont be able to accomplish anything at all. His lofty goals and refusal to compromise will inevitably lead to failure.
 
-Ignoring the questionable validity of these arguments (Bernie fought for decades in the trenches and knows exactly how the system works,[see here][1] for an incredible read), Drum blindly presents us with a false dichotomy. Our choice is not between pragmatism and delusion. It is between the apathy of accepting the status quo and the bittersweet joy of knowing that though you may have fallen short at least you fought for what you believe in. Change does not come easily, nor does it comes quickly, but it certainly does not come at all if you surrender before you have even begun. Imagine what would have become of the Civil Rights Movement if leaders like Martin Luther King Jr. instead of saying, "I have a dream," said, "dreams are for children."
+Ignoring the questionable validity of these arguments (Bernie fought for decades in the trenches and knows exactly how the system works, [see here][1] for an incredible read), Drum blindly presents us with a false dichotomy. Our choice is not between pragmatism and delusion. It is between the apathy of accepting the status quo and the bittersweet joy of knowing that though you may have fallen short at least you fought for what you believe in. Change does not come easily, nor does it comes quickly, but it certainly does not come at all if you surrender before you have even begun. Imagine what would have become of the Civil Rights Movement if leaders like Martin Luther King Jr. instead of saying, "I have a dream," said, "dreams are for children."
 
 This is The Great Divide. It is the divide between those who have decided that what is, is not right and does not have to be, and those who have chosen the apathy of pragmatism, believing that what is, is the best we can do.
 
