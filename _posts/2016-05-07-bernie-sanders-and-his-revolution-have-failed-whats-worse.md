@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Bernie Sanders and his revolution have failed. What’s worse, is that it was all a con that Sanders perpetrated on the young and impressionable. Disgusted and dismayed they will now abandon the progressive movement and fracture the democratic party.'
-datePublished: '2016-05-07T08:47:41.102Z'
-dateModified: '2016-05-07T08:45:41.694Z'
+datePublished: '2016-05-07T08:52:06.004Z'
+dateModified: '2016-05-07T08:52:02.652Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-07-bernie-sanders-and-his-revolution-have-failed-whats-worse.md
@@ -21,7 +21,11 @@ url: bernie-sanders-and-his-revolution-have-failed-whats-worse/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ae9ccee-67d8-4099-a30f-555ea57848af.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6112d7f5-ee2d-4a93-bcf1-dc1fd21f6b01.jpg)
+
+# The Great Divide:
+
+# Sanders' Revolution vs. The Apathy of Pragmatism
 
 Bernie Sanders and his revolution have failed. What's worse, is that it was all a con that Sanders perpetrated on the young and impressionable. Disgusted and dismayed they will now abandon the progressive movement and fracture the democratic party.
 
