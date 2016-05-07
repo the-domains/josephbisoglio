@@ -1,0 +1,28 @@
+name: josephbisoglio
+favicon: null
+layout_spectrum: 0.5674185373354703
+typography_spectrum: 0.49712464842014015
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.15918397041969
+  lightness: 0.14654504251666367
+  saturation: 0.9824286040384322
+  rhythmicContrast: 0.10671489569358528
+purpose: []
