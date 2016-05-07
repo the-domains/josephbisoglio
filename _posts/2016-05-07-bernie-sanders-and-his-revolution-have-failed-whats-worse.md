@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Bernie Sanders and his revolution have failed. What’s worse, is that it was all a con that Sanders perpetrated on the young and impressionable. Disgusted and dismayed they will now abandon the progressive movement and fracture the democratic party.'
-datePublished: '2016-05-07T08:45:31.878Z'
-dateModified: '2016-05-07T08:45:23.921Z'
+datePublished: '2016-05-07T08:47:41.102Z'
+dateModified: '2016-05-07T08:45:41.694Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-07-bernie-sanders-and-his-revolution-have-failed-whats-worse.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-07-bernie-sanders-and-his-revolution-have-failed-whats-worse.md
 url: bernie-sanders-and-his-revolution-have-failed-whats-worse/index.html
 _type: Article
 
