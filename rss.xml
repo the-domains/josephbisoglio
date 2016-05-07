@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[josephbisoglio]]></title>
         <description><![CDATA[josephbisoglio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/josephbisoglio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 08:30:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 07 May 2016 08:38:09 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/josephbisoglio/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/768c5398-c58c-4e48-8135-2fd9df5dfde0.jpg">]]></description>
+            <link>https://thegrid.ai/josephbisoglio/f77bba1d-422d-47eb-a4cd-ce04a4e3b560/index.html</link>
+            <guid isPermaLink="false">f77bba1d-422d-47eb-a4cd-ce04a4e3b560</guid>
+            <pubDate>Sat, 07 May 2016 08:37:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1b2ee29b-977b-47e3-a0dd-ee67f9b08446.jpg">]]></description>
-            <link>undefinedwe-the-people-of-the-united-states-in-order-to-form-a-more/index.html</link>
+            <link>https://thegrid.ai/josephbisoglio/we-the-people-of-the-united-states-in-order-to-form-a-more/index.html</link>
             <guid isPermaLink="false">65f6aa7d-c4f5-4dbe-b961-ad0910afc155</guid>
             <pubDate>Sat, 07 May 2016 08:30:29 GMT</pubDate>
         </item>
