@@ -4,11 +4,12 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'The time has come. The DNC Chair Florida Rep., Debbie Wasserman Schultz, has got to go. She symbolizes the worst of politics in the Democratic establishment. She abandoned any vestige of impartiality as DNC chair long ago, and masquerades as a progressive while pushing forward an aggressive corporate agenda. Next to you-know-who, she is likely the most reviled politician by Sanders supporters. The only uncertainty is exactly what should we do about it. Instead of just venting our ire onto social media newsfeeds, friends, family, and unsuspecting passersby, let’s focus our energy and execute a very simple plan.'
-datePublished: '2016-05-08T18:57:19.435Z'
-dateModified: '2016-05-08T18:56:55.338Z'
+description: ''
+datePublished: '2016-05-08T19:16:17.593Z'
+dateModified: '2016-05-08T19:15:41.882Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-08-the-time-has-come-the-dnc-chair-florida-rep-debbie-wasser.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-08-the-time-has-come-the-dnc-chair-florida-rep-debbie-wasser.md
 url: the-time-has-come-the-dnc-chair-florida-rep-debbie-wasser/index.html
 _type: Article
 
@@ -46,6 +46,7 @@ Schultz's record as a congresswoman [reads more like a Republican][5]. She has v
 Schultz is siding with Republicans by [co-sponsoring a bill][9] designed to protect payday lenders from regulation, undercutting the Consumer Financial Protection Bureau (CFPB), an agency set up by Elizabeth Warren to protect Americans from practices that led directly to the '08 financial collapse. Warren and the CFPB have been seeking to regulate the payday loan industry and curb their predatory conduct, while still allowing Americans to utilize the service. In response, Republicans and Schultz have teamed up to push a bill through Congress that would permanently cripple the CFPB's ability to protect consumers against payday loans. The bill has the Orwellian title, The Consumer Protection and Choice Act, and despite claims by Schultz and other supporters that it benefits Americans, more than 200 consumer and civil rights groups, including the NAACP, have written a letter to Congress urging them to defeat the bill.
 
 _****_
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea49fafd-7e28-4e96-9792-b8317e34c292.gif)
 
 _**The Canova Plan**_
 
@@ -70,10 +71,6 @@ So, if you want to get some well-deserved revenge on "Debt Trap Debbie," while s
 In the end, the political revolution will only be won if we take ownership of it. We may not have created this corrupt and broken system, but it is our responsibility to change it.
 
 UPDATE: As a good reader just reminded me, if you live in FL 23 and want to vote for Tim Canova, you MUST register as a Democrat before Aug 1st in order to vote in the Aug 30th primary. Go [here][17] to find the links to register or change you party affiliation.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea49fafd-7e28-4e96-9792-b8317e34c292.gif)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5f507b10-13dc-4076-add4-5dfdbdd14c26.gif)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/737f2850-7697-457f-b423-159fa63cfeb6.gif)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/16468c3e-bf47-4bf0-84dc-d78432873499.gif)
 
 [0]: http://www.politico.com/story/2016/04/bernie-sanders-dnc-lawsuit-campaign-222659
 [1]: http://www.nationalreview.com/article/427026/why-democrats-buried-their-debates-times-no-one-will-watch-brendan-bordelon
